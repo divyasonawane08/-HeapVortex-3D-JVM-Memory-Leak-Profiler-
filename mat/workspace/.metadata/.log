@@ -1,0 +1,75 @@
+!SESSION 2026-07-13 14:33:33.202 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-07-13 14:44:42.765
+!MESSAGE Started opening dump C:\Users\Administrator\java_pid22816.0001.hprof at 2026-07-13T14:44:42.7516269+05:30[Asia/Calcutta]
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-07-13 14:44:43.234
+!MESSAGE Detected compressed references, because with uncompressed 64-bit references the array at 0xc0019ef8 would overlap the array at 0xc0019980
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-07-13 14:44:43.614
+!MESSAGE Wrote threads call stacks to C:\Users\Administrator\java_pid22816.0001.threads
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-07-13 14:44:43.775
+!MESSAGE Heap C:\Users\Administrator\java_pid22816.0001.hprof contains 630,280 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-07-13 14:44:45.803
+!MESSAGE The keep unreachable objects condition is set to false. This may come either from the preference or dump condition requirements.
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-07-13 14:44:45.881
+!MESSAGE Removed 60,362 unreachable objects using 2,919,368 bytes
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-07-13 14:44:48.861
+!MESSAGE Finished opening dump in 6.09 seconds (6.0946509s) at 2026-07-13T14:44:48.8462778+05:30[Asia/Calcutta]
+!SESSION 2026-07-14 12:22:23.386 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-07-14 12:22:49.730
+!MESSAGE Started opening dump C:\Users\Administrator\heapdump.hprof at 2026-07-14T12:22:49.7096023+05:30[Asia/Calcutta]
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-07-14 12:22:50.302
+!MESSAGE Detected compressed references, because with uncompressed 64-bit references the array at 0x81e250d8 would overlap the array at 0x81e250b0
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-07-14 12:22:51.012
+!MESSAGE Wrote threads call stacks to C:\Users\Administrator\heapdump.threads
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-07-14 12:22:51.406
+!MESSAGE Heap C:\Users\Administrator\heapdump.hprof contains 1,354,489 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-07-14 12:22:55.608
+!MESSAGE The keep unreachable objects condition is set to false. This may come either from the preference or dump condition requirements.
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-07-14 12:22:55.785
+!MESSAGE Removed 96,537 unreachable objects using 4,431,272 bytes
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-07-14 12:23:02.049
+!MESSAGE Finished opening dump in 12.34 seconds (12.3353635s) at 2026-07-14T12:23:02.0449658+05:30[Asia/Calcutta]
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-07-14 12:23:09.593
+!MESSAGE Couldn't find paths for 12 of the 13 objects
+!SESSION 2026-08-05 12:56:28.160 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-08-05 12:56:46.302
+!MESSAGE Started opening dump C:\Users\Administrator\heapdump.hprof at 2026-08-05T12:56:46.2906074+05:30[Asia/Calcutta]
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-08-05 12:56:46.953
+!MESSAGE Finished opening dump in .66 seconds (0.6591887s) at 2026-08-05T12:56:46.9497961+05:30[Asia/Calcutta]
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-08-05 12:56:55.077
+!MESSAGE Couldn't find paths for 12 of the 13 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2026-08-05 12:57:31.171
+!MESSAGE Couldn't find paths for 12 of the 13 objects
