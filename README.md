@@ -168,6 +168,9 @@ The generated `.hprof` file can be analyzed using Eclipse MAT.
 * Advanced object reference graph analysis
 * Production deployment support
 
+* <img width="517" height="645" alt="HeapVortexOutput" src="https://github.com/user-attachments/assets/40aa45f1-405f-48d0-98e7-399273129ba0" />
+
+
 ## Author
 
 **Divya Sonawane**
